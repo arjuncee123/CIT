@@ -1,7 +1,7 @@
 Welcome
 
 ################To run the application please follow the below steps################
-1. pip install pygame
+1. pip install pygame 
 2. pip install gtts
 3. pip install --user qibullet
 4. pip install opencv-python
